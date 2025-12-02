@@ -1,6 +1,8 @@
 # Math Count HTW
 Discord bot for counting - but with math.
 
+This script is based on [Entkenntnis/counting-htw-version](https://github.com/Entkenntnis/counting-htw-version/tree/main). Thank you!
+
 ## Rules
 1. The goal is to count as high as possible starting at 1.
 2. To count, send a message with a mathematical expression.
